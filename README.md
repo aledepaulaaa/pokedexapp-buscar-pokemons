@@ -1,6 +1,6 @@
 # Pokedex App - Busca de Pokemons
 
-Este projeto consome uma API pública para busca de pokemons.
+Este projeto consome uma API pública para busca de pokemons, a famosa #pokeapi.
 
 This template should help get you started developing with Vue 3 in Vite.
 
