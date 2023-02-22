@@ -1,0 +1,10 @@
+@import './base.css';
+body{
+  background: radial-gradient(#d1dcd6,#6359bd91, #949899);
+}
+.card{
+  border-radius: 16px;
+  box-shadow: 0 0 16px 0 rgba(140, 50, 214, 0.486);
+  width: 300px;
+  margin: 0 auto;
+}
